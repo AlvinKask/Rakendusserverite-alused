@@ -21,7 +21,7 @@ Github Education Pack
 3. Staatiline html
 4. Wordpress (andmebaas juurde)
 5. Ühistöö, kus NodeJS + React projekti majutamine
-6* .net rakenduse majutamine
+6. .net rakenduse majutamine
 
 - https://www.akask.webhosting.tptlive.ee/Staatiline/
 - https://www.akask.webhosting.tptlive.ee/REACT/
